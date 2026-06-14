@@ -22,8 +22,9 @@ This project is a front-end recreation of the Myntra online shopping platform. I
 - **Material Symbols** - Google Material Icons for enhanced UI elements
 
 ## 🎨 Design Highlights
-
-![Myntra Clone Screenshot](vscode-chat-response-resource://7673636f64652d636861742d73657373696f6e3a2f2f6c6f63616c2f4f4459324f5441335a5745744e7a6b304d5330304e6a417a4c546b335a544d744e324e6b4d6d566c4f4755335a6a5533/tool/toolu_bdrk_01WiZNbg37wiKXT9AU4LvedN/0/file.jpe)
+<img width="1918" height="868" alt="image" src="https://github.com/user-attachments/assets/cb1a9ceb-eb3f-4dc4-acef-33e925f8bac7" />
+<img width="1918" height="702" alt="image" src="https://github.com/user-attachments/assets/d5353433-875c-4866-8cad-9aecd4e6f4e0" />
+<img width="1918" height="427" alt="image" src="https://github.com/user-attachments/assets/09de6c49-aa38-4ba9-8676-23771026d15b" />
 
 - **Color Scheme**: White and light gray background with pink (#ff3f6c) accent color for hover effects
 - **Typography**: Clean, modern sans-serif font (Figtree-Regular, Segoe UI)
@@ -43,6 +44,7 @@ myntra_clone/
     └── myntra_logo.webp  # Main Myntra logo
     └── banner.jpg   # Hero banner image
 ```
+Code Screen-Shot:
 
 ## 🚀 How to Run
 
